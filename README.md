@@ -49,7 +49,7 @@ This repo is not updated anymore
 |  | ChatBridge | [ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst](https://arxiv.org/abs/2305.16103) | 25 May 2023 |
 | Closed sourced LLM | GPT3 | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) | 28 May 2020 |
 |  | GPT4 | [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) | 15 Mar 2023 |
-| Instruction Turning | InstructGPT | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | 4 Mar 2022 |
+| Instruction Tuning | InstructGPT | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | 4 Mar 2022 |
 |  | LLaVA | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | 17 Apr 2023 |
 |  | LLaVA | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | 17 Apr 2023 |
 |  | MiniGPT-4 | [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592) | 20 Apr 2023 |
