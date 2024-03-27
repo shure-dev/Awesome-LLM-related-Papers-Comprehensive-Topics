@@ -56,6 +56,7 @@ This repo is not updated anymore
 |  | FLAN | [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652) | 3 Sep 2021 |
 |  | LLaMA-adapter | [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/abs/2303.16199) | 28 Mar 2023 |
 |  | Self-Instruct | [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560) | 20 Dec 2022 |
+|  | Gorilla LLM | [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/abs/2305.15334) | 24 May 2023 |
 | Vision-LLM | LLaVA | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | 17 Apr 2023 |
 |  | GPT4-V OpenFlamingo | [OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models](https://arxiv.org/abs/2308.01390) | 2 Aug 2023 |
 |  | InternGPT | [InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/abs/2305.05662) | 9 May 2023 |
